@@ -1,0 +1,8 @@
+- Hi, I’m @Afmc07 
+- I'm a colombian Computer Science student currently studying at UNIFOR(Universidade de Fortaleza) in Brazil.
+- I’m currently learning C and C++ to widen my habilities, i look forward to learning a large variety of languages to maximize my contribution for any project i work in.
+- I’m looking to collaborate on the development or maintinence of software to truly hone skill and expand my understanding of the field.
+- I currently program mostly in Java, Python and Javascript, I also posses knowledge in Sql and Kotlin and I'm familiar with the basics of html and css.
+- I mostly work using Visual Studio Code and jetbrains IDEs such as IntelliJ, Pycharm and CLion.
+- Feel free to reach out to me through my email afmc07@hotmail.com and my instagram @Afmc07.
+- Any feedback on my projects will be greatly appreciated.
