@@ -4,5 +4,6 @@
 - I’m looking to collaborate on the development or maintinence of software to truly hone skill and expand my understanding of the field.
 - I currently program mostly in Java, Python and Javascript, I also posses knowledge in Sql and Kotlin and I'm familiar with the basics of html and css.
 - I mostly work using Visual Studio Code and jetbrains IDEs such as IntelliJ, Pycharm and CLion.
+- I am fluent in English, Spanish and Portuguese, and im looking forward to learn more.
 - Feel free to reach out to me through my email afmc07@hotmail.com and my instagram @Afmc07.
 - Any feedback on my projects will be greatly appreciated.
